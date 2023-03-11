@@ -4,7 +4,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 
-public class c4_trial_m3 // class declaration
+public class c4_m3 // class declaration
 {
 	public static boolean valid_move (char column_number, char[][] valid_board_declare)   // method declaration
 	{	
