@@ -1,0 +1,45 @@
+body{
+    background: rgb(237, 245, 241);
+}
+h1, ul, li{
+    font-family: "Unbounded";
+}
+h3{
+    font-family: "Unbounded";
+}
+p{
+    font-family: "Unbounded";
+}
+
+h1{
+    color: rgb(21, 167, 246);
+    text-decoration: underline;
+}
+
+p.definition { 
+    background: yellow;
+    font-style: italic;  /* <!--add this to github--> */
+  }
+
+p.paragraph {
+    color: red;
+    font-weight: bold;
+  }
+
+ul.change_style {
+    list-style-type: square;
+    color:green;
+}
+
+p.title{
+    color:darkblue;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+p.sub_title{
+    color:rgb(5, 99, 213);
+    font-size: 16px;
+    font-weight: bold;
+}
