@@ -1,0 +1,30 @@
+body{
+  background-color: antiquewhite;
+}
+
+h2{
+  text-align: center;
+}
+
+#tip_container{
+  background-color: #90e0ef;
+  border:3px solid;
+  border-color: blue;
+  height:200px;
+  width: 720px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+#tip_button{
+  margin: -7px auto;
+  height: 30px;
+  width: 150px;
+  border-radius: 3px;
+  border-color: rgb(2, 53, 74);
+}
+
+#tip_output{
+  margin: 35px auto;
+}
