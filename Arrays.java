@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 public class Arrays
 {
-
 	public static void main(String[] args) 
 	{
 		String [] names= {"Sam", "Jas", "Lola"};
@@ -20,9 +19,5 @@ public class Arrays
 		{
 		System.out.println(names[j]);
 		}
-		
-
-
 	}
-
 }
