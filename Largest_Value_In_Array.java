@@ -1,5 +1,5 @@
-public class Largest_Value_In_Array {
-
+public class Largest_Value_In_Array 
+{
 	static int arr[] = {10, 324, 45, 90, 9808};
     
     // Method to find maximum in arr[]
@@ -16,14 +16,11 @@ public class Largest_Value_In_Array {
             if (arr[i] > max)
                 max = arr[i];
         System.out.println("Largest value is:"+ max);
-         
         return max;
     }
     
 	public static void main(String[] args) 
 	{
-		// TODO Auto-generated method stub
       largest();
 	}
-
 }
