@@ -1,4 +1,4 @@
-public class ArrayConversion 
+public class DataTypeConversion 
 {
 	public static void main(String[] args) 
 	{	
